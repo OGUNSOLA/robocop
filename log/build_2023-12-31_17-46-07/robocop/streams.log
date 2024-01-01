@@ -1,0 +1,60 @@
+[0.293s] Invoking command in '/home/parallels/robot_ws/src/robocop/build/robocop': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/parallels/ws_ros2/install/py_actions:/home/parallels/ws_ros2/install/py_action_challenge:/home/parallels/ws_ros2/install/fibonacci_action:/home/parallels/ws_ros2/install/lifecycle_py:/home/parallels/ros2_ws2/install/tutorial_python:/home/parallels/ros2_ws2/install/turtle_mover:/home/parallels/ros2_ws2/install/py_srvcli:/opt/ros/humble /usr/bin/cmake /home/parallels/robot_ws/src/robocop -DCMAKE_INSTALL_PREFIX=/home/parallels/robot_ws/src/robocop/install/robocop
+[0.550s] -- The C compiler identification is GNU 11.4.0
+[0.688s] -- The CXX compiler identification is GNU 11.4.0
+[0.717s] -- Detecting C compiler ABI info
+[0.875s] -- Detecting C compiler ABI info - done
+[0.895s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.896s] -- Detecting C compile features
+[0.898s] -- Detecting C compile features - done
+[0.906s] -- Detecting CXX compiler ABI info
+[1.056s] -- Detecting CXX compiler ABI info - done
+[1.077s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[1.077s] -- Detecting CXX compile features
+[1.077s] -- Detecting CXX compile features - done
+[1.114s] -- Found ament_cmake: 1.3.6 (/opt/ros/humble/share/ament_cmake/cmake)
+[1.477s] -- Found Python3: /usr/bin/python3.10 (found version "3.10.12") found components: Interpreter 
+[1.762s] -- Found ament_lint_auto: 0.12.9 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[1.978s] -- Added test 'copyright' to check source files copyright and LICENSE
+[1.994s] -- Added test 'cppcheck' to perform static code analysis on C / C++ code
+[1.994s] -- Configured cppcheck include dirs: 
+[1.994s] -- Configured cppcheck exclude dirs and/or files: 
+[2.006s] -- Added test 'cpplint' to check C / C++ code against the Google style
+[2.006s] -- Configured cpplint exclude dirs and/or files: 
+[2.009s] -- Added test 'flake8' to check Python code syntax and style conventions
+[2.014s] -- Added test 'lint_cmake' to check CMake code style
+[2.017s] -- Added test 'pep257' to check Python code against some of the docstring style conventions in PEP 257
+[2.029s] -- Added test 'uncrustify' to check C / C++ code style
+[2.029s] -- Configured uncrustify additional arguments: 
+[2.032s] -- Added test 'xmllint' to check XML markup files
+[2.038s] -- Configuring done
+[2.042s] -- Generating done
+[2.044s] -- Build files have been written to: /home/parallels/robot_ws/src/robocop/build/robocop
+[2.050s] Invoked command in '/home/parallels/robot_ws/src/robocop/build/robocop' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/parallels/ws_ros2/install/py_actions:/home/parallels/ws_ros2/install/py_action_challenge:/home/parallels/ws_ros2/install/fibonacci_action:/home/parallels/ws_ros2/install/lifecycle_py:/home/parallels/ros2_ws2/install/tutorial_python:/home/parallels/ros2_ws2/install/turtle_mover:/home/parallels/ros2_ws2/install/py_srvcli:/opt/ros/humble /usr/bin/cmake /home/parallels/robot_ws/src/robocop -DCMAKE_INSTALL_PREFIX=/home/parallels/robot_ws/src/robocop/install/robocop
+[2.053s] Invoking command in '/home/parallels/robot_ws/src/robocop/build/robocop': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/parallels/ws_ros2/install/py_actions:/home/parallels/ws_ros2/install/py_action_challenge:/home/parallels/ws_ros2/install/fibonacci_action:/home/parallels/ws_ros2/install/lifecycle_py:/home/parallels/ros2_ws2/install/tutorial_python:/home/parallels/ros2_ws2/install/turtle_mover:/home/parallels/ros2_ws2/install/py_srvcli:/opt/ros/humble /usr/bin/cmake --build /home/parallels/robot_ws/src/robocop/build/robocop -- -j4 -l4
+[2.122s] Invoked command in '/home/parallels/robot_ws/src/robocop/build/robocop' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/parallels/ws_ros2/install/py_actions:/home/parallels/ws_ros2/install/py_action_challenge:/home/parallels/ws_ros2/install/fibonacci_action:/home/parallels/ws_ros2/install/lifecycle_py:/home/parallels/ros2_ws2/install/tutorial_python:/home/parallels/ros2_ws2/install/turtle_mover:/home/parallels/ros2_ws2/install/py_srvcli:/opt/ros/humble /usr/bin/cmake --build /home/parallels/robot_ws/src/robocop/build/robocop -- -j4 -l4
+[2.193s] Invoking command in '/home/parallels/robot_ws/src/robocop/build/robocop': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/parallels/ws_ros2/install/py_actions:/home/parallels/ws_ros2/install/py_action_challenge:/home/parallels/ws_ros2/install/fibonacci_action:/home/parallels/ws_ros2/install/lifecycle_py:/home/parallels/ros2_ws2/install/tutorial_python:/home/parallels/ros2_ws2/install/turtle_mover:/home/parallels/ros2_ws2/install/py_srvcli:/opt/ros/humble /usr/bin/cmake --install /home/parallels/robot_ws/src/robocop/build/robocop
+[2.206s] -- Install configuration: ""
+[2.206s] -- Installing: /home/parallels/robot_ws/src/robocop/install/robocop/share/robocop/config
+[2.207s] -- Installing: /home/parallels/robot_ws/src/robocop/install/robocop/share/robocop/config/empty.yaml
+[2.207s] -- Installing: /home/parallels/robot_ws/src/robocop/install/robocop/share/robocop/description
+[2.207s] -- Installing: /home/parallels/robot_ws/src/robocop/install/robocop/share/robocop/description/robot.urdf.xacro
+[2.207s] -- Installing: /home/parallels/robot_ws/src/robocop/install/robocop/share/robocop/launch
+[2.208s] -- Installing: /home/parallels/robot_ws/src/robocop/install/robocop/share/robocop/launch/rsp.launch.py
+[2.208s] -- Installing: /home/parallels/robot_ws/src/robocop/install/robocop/share/robocop/worlds
+[2.208s] -- Installing: /home/parallels/robot_ws/src/robocop/install/robocop/share/robocop/worlds/empty.world
+[2.208s] -- Installing: /home/parallels/robot_ws/src/robocop/install/robocop/share/ament_index/resource_index/package_run_dependencies/robocop
+[2.208s] -- Installing: /home/parallels/robot_ws/src/robocop/install/robocop/share/ament_index/resource_index/parent_prefix_path/robocop
+[2.209s] -- Installing: /home/parallels/robot_ws/src/robocop/install/robocop/share/robocop/environment/ament_prefix_path.sh
+[2.209s] -- Installing: /home/parallels/robot_ws/src/robocop/install/robocop/share/robocop/environment/ament_prefix_path.dsv
+[2.209s] -- Installing: /home/parallels/robot_ws/src/robocop/install/robocop/share/robocop/environment/path.sh
+[2.209s] -- Installing: /home/parallels/robot_ws/src/robocop/install/robocop/share/robocop/environment/path.dsv
+[2.210s] -- Installing: /home/parallels/robot_ws/src/robocop/install/robocop/share/robocop/local_setup.bash
+[2.210s] -- Installing: /home/parallels/robot_ws/src/robocop/install/robocop/share/robocop/local_setup.sh
+[2.210s] -- Installing: /home/parallels/robot_ws/src/robocop/install/robocop/share/robocop/local_setup.zsh
+[2.211s] -- Installing: /home/parallels/robot_ws/src/robocop/install/robocop/share/robocop/local_setup.dsv
+[2.211s] -- Installing: /home/parallels/robot_ws/src/robocop/install/robocop/share/robocop/package.dsv
+[2.211s] -- Installing: /home/parallels/robot_ws/src/robocop/install/robocop/share/ament_index/resource_index/packages/robocop
+[2.211s] -- Installing: /home/parallels/robot_ws/src/robocop/install/robocop/share/robocop/cmake/robocopConfig.cmake
+[2.211s] -- Installing: /home/parallels/robot_ws/src/robocop/install/robocop/share/robocop/cmake/robocopConfig-version.cmake
+[2.211s] -- Installing: /home/parallels/robot_ws/src/robocop/install/robocop/share/robocop/package.xml
+[2.214s] Invoked command in '/home/parallels/robot_ws/src/robocop/build/robocop' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/parallels/ws_ros2/install/py_actions:/home/parallels/ws_ros2/install/py_action_challenge:/home/parallels/ws_ros2/install/fibonacci_action:/home/parallels/ws_ros2/install/lifecycle_py:/home/parallels/ros2_ws2/install/tutorial_python:/home/parallels/ros2_ws2/install/turtle_mover:/home/parallels/ros2_ws2/install/py_srvcli:/opt/ros/humble /usr/bin/cmake --install /home/parallels/robot_ws/src/robocop/build/robocop

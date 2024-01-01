@@ -1,0 +1,2 @@
+source;share/robocop/environment/ament_prefix_path.sh
+source;share/robocop/environment/path.sh

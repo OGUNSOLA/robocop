@@ -1,0 +1,29 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/parallels/turtlebot3_ws/install/turtlebot3_gazebo/include/**",
+        "/home/parallels/turtlebot3_ws/install/turtlebot3_fake_node/include/**",
+        "/home/parallels/ws_ros2/install/robot_interfaces/include/**",
+        "/home/parallels/ws_ros2/install/bot_action_interfaces/include/**",
+        "/home/parallels/ros2_ws/install/rplidar_ros/include/**",
+        "/home/parallels/ros2_ws/install/realsense2_camera/include/**",
+        "/home/parallels/ros2_ws/install/realsense2_camera_msgs/include/**",
+        "/home/parallels/ros2_ctrl_ws/install/ros2_control_demo_example_2/include/**",
+        "/home/parallels/ros2_ws2/install/my_robot_interfaces/include/**",
+        "/opt/ros/humble/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}

@@ -1,0 +1,32 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/home/parallels/ws_ros2/install/py_actions/lib/python3.10/site-packages",
+        "/home/parallels/ws_ros2/install/py_action_challenge/lib/python3.10/site-packages",
+        "/home/parallels/ws_ros2/install/fibonacci_action/lib/python3.10/site-packages",
+        "/home/parallels/ws_ros2/install/robot_interfaces/local/lib/python3.10/dist-packages",
+        "/home/parallels/ws_ros2/install/lifecycle_py/lib/python3.10/site-packages",
+        "/home/parallels/ws_ros2/install/bot_action_interfaces/local/lib/python3.10/dist-packages",
+        "/home/parallels/ros2_ws/install/realsense2_camera_msgs/local/lib/python3.10/dist-packages",
+        "/home/parallels/ros2_ws2/install/tutorial_python/lib/python3.10/site-packages",
+        "/home/parallels/ros2_ws2/install/turtle_mover/lib/python3.10/site-packages",
+        "/home/parallels/ros2_ws2/install/py_srvcli/lib/python3.10/site-packages",
+        "/home/parallels/ros2_ws2/install/my_robot_interfaces/local/lib/python3.10/dist-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/home/parallels/ws_ros2/install/py_actions/lib/python3.10/site-packages",
+        "/home/parallels/ws_ros2/install/py_action_challenge/lib/python3.10/site-packages",
+        "/home/parallels/ws_ros2/install/fibonacci_action/lib/python3.10/site-packages",
+        "/home/parallels/ws_ros2/install/robot_interfaces/local/lib/python3.10/dist-packages",
+        "/home/parallels/ws_ros2/install/lifecycle_py/lib/python3.10/site-packages",
+        "/home/parallels/ws_ros2/install/bot_action_interfaces/local/lib/python3.10/dist-packages",
+        "/home/parallels/ros2_ws/install/realsense2_camera_msgs/local/lib/python3.10/dist-packages",
+        "/home/parallels/ros2_ws2/install/tutorial_python/lib/python3.10/site-packages",
+        "/home/parallels/ros2_ws2/install/turtle_mover/lib/python3.10/site-packages",
+        "/home/parallels/ros2_ws2/install/py_srvcli/lib/python3.10/site-packages",
+        "/home/parallels/ros2_ws2/install/my_robot_interfaces/local/lib/python3.10/dist-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ]
+}

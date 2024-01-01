@@ -1,0 +1,8 @@
+source;share/robocop/hook/cmake_prefix_path.ps1
+source;share/robocop/hook/cmake_prefix_path.dsv
+source;share/robocop/hook/cmake_prefix_path.sh
+source;share/robocop/local_setup.bash
+source;share/robocop/local_setup.dsv
+source;share/robocop/local_setup.ps1
+source;share/robocop/local_setup.sh
+source;share/robocop/local_setup.zsh

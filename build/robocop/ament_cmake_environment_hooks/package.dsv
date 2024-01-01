@@ -1,0 +1,4 @@
+source;share/robocop/local_setup.bash
+source;share/robocop/local_setup.dsv
+source;share/robocop/local_setup.sh
+source;share/robocop/local_setup.zsh
