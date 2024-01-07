@@ -1,7 +1,6 @@
 <?xml version="1.0"?>
 <robot xmlns:xacro="http://www.ros.org/wiki/xacro">
   <xacro:include filename="inertial_macro.xacro"/>
-    <xacro:include filename="lidar.xacro"/>
 
  
 
@@ -145,6 +144,7 @@
       <origin xyz="0.016875 0.0 0.0" rpy="0.0 0.0 0.0"/>
      </xacro:inertial_sphere>
   </link>
+  
 
   <gazebo reference="caster_wheel_link">
     <material>Gazebo/Black</material>
