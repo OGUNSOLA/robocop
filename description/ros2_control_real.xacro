@@ -61,6 +61,8 @@
     <gazebo>
         <plugin name="gazebo_ros2_control" filename="libgazebo_ros2_control.so">
             <parameters>$(find robocop)/config/my_controller.yaml</parameters>
+            <parameters>$(find robocop)/config/gazebo_ros2_controller.yaml</parameters>
+
         </plugin>
     </gazebo>
 
